@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec9c5617-9b09-4870-9bce-0adb80daadaf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sensor-anomalies.model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sensor-anomalies.model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <workItem from="1705401847724" duration="2094000" />
       <workItem from="1707937184369" duration="62000" />
       <workItem from="1708359029224" duration="2980000" />
-      <workItem from="1708362679603" duration="14863000" />
+      <workItem from="1708362679603" duration="15633000" />
     </task>
     <servers />
   </component>
